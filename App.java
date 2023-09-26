@@ -11,7 +11,7 @@ public class App {
         //TestCases tests = new TestCases(); // Initialize your test class
 
         //Search_Amazon amazon = new Search_Amazon();
-        Count_Hyperlinks hyperlinks = new Count_Hyperlinks();
+        //Count_Hyperlinks hyperlinks = new Count_Hyperlinks();
         //Image_URLs imageUrls = new Image_URLs();
         //IMDB__ratings imdb = new IMDB__ratings();
         //Nested_Frames_Text frames = new Nested_Frames_Text();
@@ -23,7 +23,7 @@ public class App {
         //tests.testCase01();
 
         //amazon.searchAmazon();
-        hyperlinks.countHyperlinks();
+        //hyperlinks.countHyperlinks();
         //imageUrls.imageURLs();
         //imdb.imdbRatings();
         //frames.nestedFrames();
@@ -35,7 +35,7 @@ public class App {
         //tests.endTest(); // End your test by clearning connections and closing browser
 
         //amazon.endTest();
-        hyperlinks.endTest();
+        //hyperlinks.endTest();
         //imageUrls.endTest();
         //imdb.endTest();
         //frames.endTest();
